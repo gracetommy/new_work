@@ -1,4 +1,4 @@
 <?php 
 
-echo "Something";
+echo "Something you cannot do... i go find trouble";
 
